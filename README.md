@@ -1,4 +1,4 @@
-# techno
+# VUE Boiler Plate
 
 ## Project setup
 ```
